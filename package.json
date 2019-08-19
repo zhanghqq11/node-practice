@@ -1,0 +1,23 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "node.js practice",
+  "main": "01/fs_try.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanghqq11/node-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhanghqq11/node-practice/issues"
+  },
+  "homepage": "https://github.com/zhanghqq11/node-practice#readme",
+  "dependencies": {
+    "download-git-repo": "^2.0.0",
+    "ora": "^3.4.0"
+  }
+}
