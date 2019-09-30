@@ -24,3 +24,10 @@ npm是最大的开源包生态系统，所以大部分js相关的包都在npm上
 
 fs模块：参考http://javascript.ruanyifeng.com/nodejs/fs.html#toc0
 
+## 学习node的目标三部曲
+
+优秀的前端-可以和后端有效沟通
+
+敏捷全栈-快速开发全栈应用
+
+架构师-践行工程化思想+ 看 用编自己
