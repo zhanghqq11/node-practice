@@ -6,7 +6,7 @@ var server = http.createServer()
 //开服务器
 server.on('request',function () {
     console.log('收到客户端请求')
-    console.log('111')
+    console.log('test contribute')
 })
 
 //绑定端口号
